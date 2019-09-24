@@ -1,6 +1,5 @@
-# custom-components
-> 业务代码中封装的自定义组件及好用的第三方组件收集
+## BaseComponent
+无数据交互的简单组件，无需引入及声明即可用。
 
-## 自定义组件
-- BackToTop（返回顶部）
-- Charts （Echarts各类型图表封装）
+## CustomComponents
+较复杂有数据交互的组件
